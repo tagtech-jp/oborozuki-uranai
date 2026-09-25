@@ -1,0 +1,136 @@
+{
+  "zodiacs": [
+    {
+      "id": "aries",
+      "name": "牡羊座",
+      "nameEn": "Aries",
+      "symbol": "♈",
+      "periodStart": "3月21日",
+      "periodEnd": "4月19日",
+      "element": "火",
+      "rulingPlanet": "火星",
+      "description": "情熱と行動力にあふれた星座です。新しいことへの挑戦を好む傾向があるかもしれません。"
+    },
+    {
+      "id": "taurus",
+      "name": "牡牛座",
+      "nameEn": "Taurus",
+      "symbol": "♉",
+      "periodStart": "4月20日",
+      "periodEnd": "5月20日",
+      "element": "地",
+      "rulingPlanet": "金星",
+      "description": "安定と豊かさを大切にする星座です。着実に積み重ねることを好む傾向があるかもしれません。"
+    },
+    {
+      "id": "gemini",
+      "name": "双子座",
+      "nameEn": "Gemini",
+      "symbol": "♊",
+      "periodStart": "5月21日",
+      "periodEnd": "6月21日",
+      "element": "風",
+      "rulingPlanet": "水星",
+      "description": "好奇心旺盛でコミュニケーション上手な星座です。多才な面があるかもしれません。"
+    },
+    {
+      "id": "cancer",
+      "name": "蟹座",
+      "nameEn": "Cancer",
+      "symbol": "♋",
+      "periodStart": "6月22日",
+      "periodEnd": "7月22日",
+      "element": "水",
+      "rulingPlanet": "月",
+      "description": "深い感受性と思いやりを持つ星座です。大切な人を守ろうとする面があるかもしれません。"
+    },
+    {
+      "id": "leo",
+      "name": "獅子座",
+      "nameEn": "Leo",
+      "symbol": "♌",
+      "periodStart": "7月23日",
+      "periodEnd": "8月22日",
+      "element": "火",
+      "rulingPlanet": "太陽",
+      "description": "輝くカリスマ性を持つ星座です。周囲を明るく照らす力があるかもしれません。"
+    },
+    {
+      "id": "virgo",
+      "name": "乙女座",
+      "nameEn": "Virgo",
+      "symbol": "♍",
+      "periodStart": "8月23日",
+      "periodEnd": "9月22日",
+      "element": "地",
+      "rulingPlanet": "水星",
+      "description": "細やかな観察力と誠実さを持つ星座です。丁寧に物事を進めることを好む面があるかもしれません。"
+    },
+    {
+      "id": "libra",
+      "name": "天秤座",
+      "nameEn": "Libra",
+      "symbol": "♎",
+      "periodStart": "9月23日",
+      "periodEnd": "10月23日",
+      "element": "風",
+      "rulingPlanet": "金星",
+      "description": "バランス感覚と美的センスに優れた星座です。調和を大切にする面があるかもしれません。"
+    },
+    {
+      "id": "scorpio",
+      "name": "蠍座",
+      "nameEn": "Scorpio",
+      "symbol": "♏",
+      "periodStart": "10月24日",
+      "periodEnd": "11月22日",
+      "element": "水",
+      "rulingPlanet": "冥王星",
+      "description": "深い洞察力と強い意志を持つ星座です。物事の本質を見抜こうとする面があるかもしれません。"
+    },
+    {
+      "id": "sagittarius",
+      "name": "射手座",
+      "nameEn": "Sagittarius",
+      "symbol": "♐",
+      "periodStart": "11月23日",
+      "periodEnd": "12月21日",
+      "element": "火",
+      "rulingPlanet": "木星",
+      "description": "自由と冒険を愛する星座です。広い視野で可能性を探ろうとする面があるかもしれません。"
+    },
+    {
+      "id": "capricorn",
+      "name": "山羊座",
+      "nameEn": "Capricorn",
+      "symbol": "♑",
+      "periodStart": "12月22日",
+      "periodEnd": "1月19日",
+      "element": "地",
+      "rulingPlanet": "土星",
+      "description": "忍耐力と責任感に優れた星座です。目標に向かって着実に歩む面があるかもしれません。"
+    },
+    {
+      "id": "aquarius",
+      "name": "水瓶座",
+      "nameEn": "Aquarius",
+      "symbol": "♒",
+      "periodStart": "1月20日",
+      "periodEnd": "2月18日",
+      "element": "風",
+      "rulingPlanet": "天王星",
+      "description": "独創性と人道的な精神を持つ星座です。革新的なアイデアが生まれやすい面があるかもしれません。"
+    },
+    {
+      "id": "pisces",
+      "name": "魚座",
+      "nameEn": "Pisces",
+      "symbol": "♓",
+      "periodStart": "2月19日",
+      "periodEnd": "3月20日",
+      "element": "水",
+      "rulingPlanet": "海王星",
+      "description": "豊かな感受性と想像力を持つ星座です。直感が冴えることがあるかもしれません。"
+    }
+  ]
+}
